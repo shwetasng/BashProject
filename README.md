@@ -1,7 +1,8 @@
-> [!IMPORTANT]
-> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. Please [onboard the course][onboarding_tutorial] before starting. 
-> 
-> If you find this project too challenging, consider completing the [LinuxProject][LinuxProject] beforehand.
+> [!NOTE]
+> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course.  
+
+> [!TIP]
+> If you find this project too challenging, consider completing the [LinuxMiniProject][LinuxProject] beforehand.
 
 # Bash Project  [![][autotest_badge]][autotest_workflow]
 
@@ -105,7 +106,7 @@ As it's only an exercise, we may not approve your pull request (approval would l
 
 [DevOpsTheHardWay]: https://github.com/exit-zero-academy/DevOpsTheHardWay
 [onboarding_tutorial]: https://github.com/exit-zero-academy/DevOpsTheHardWay/blob/main/tutorials/onboarding.md
-[LinuxProject]: https://github.com/exit-zero-academy/LinuxProject
+[LinuxProject]: https://github.com/exit-zero-academy/LinuxMiniProject
 [autotest_badge]: ../../actions/workflows/project_auto_testing.yaml/badge.svg?event=push
 [autotest_workflow]: ../../actions/workflows/project_auto_testing.yaml/
 [github_actions]: ../../actions
