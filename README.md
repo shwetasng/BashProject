@@ -104,6 +104,12 @@ As it's only an exercise, we may not approve your pull request (approval would l
 # Good Luck
 
 
+## SCREENSHOTS
+
+![image](https://github.com/user-attachments/assets/407737bc-c4ac-411e-a5da-4634416fee99)
+
+
+
 [DevOpsTheHardWay]: https://github.com/exit-zero-academy/DevOpsTheHardWay
 [onboarding_tutorial]: https://github.com/exit-zero-academy/DevOpsTheHardWay/blob/main/tutorials/onboarding.md
 [LinuxProject]: https://github.com/exit-zero-academy/LinuxMiniProject
