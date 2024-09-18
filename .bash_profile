@@ -12,7 +12,7 @@ if [ -f ~/.token ]; then
 fi
 
 # Change umask
-umask 002
+umask 006
 
 # Update PATH
 export PATH="$PATH:/home/$(whoami)/usercommands"
