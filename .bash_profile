@@ -2,7 +2,7 @@
 echo "Hello $(whoami)"
 # comment
 # Define an environment variable
-export COURSE_ID=DevOpsTheHardWay
+export COURSE_ID=__REPO_NAME__
 
 # Check .token file permissions
 if [ -f ~/.token ]; then
