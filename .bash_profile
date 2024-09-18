@@ -1,6 +1,6 @@
 # Greet the user
 echo "Hello $(whoami)"
-
+# comment
 # Define an environment variable
 export COURSE_ID=DevOpsTheHardWay
 
